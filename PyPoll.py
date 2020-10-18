@@ -29,7 +29,7 @@ with open(file_to_load) as election_data:
     #txt_file.write("Counties in the Election\n--------------------------\nArapahoe\nDenver\nJefferson")
     
 
-
+#
 
 
 # 1. The total number of votes cast 
